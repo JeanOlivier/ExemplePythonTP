@@ -14,7 +14,7 @@ Les résultats du fit s'afficheront dans le terminal ou la console.
 
 Pour bien comprendre comment le programme fonctionnne, je suggère d'exécuter
 *Fit-Young.py* dans une fenêtre ipython et d'ensuite accéder à la 
-documentation des différentes fonction en tapant leur nom suivi de *?*.
+documentation des différentes fonctions en tapant leur nom suivi de *?*.
 e.g., `In[1]: fit?`
 
 **Output Typique**
