@@ -17,7 +17,7 @@ Pour bien comprendre comment le programme fonctionnne, je suggère d'exécuter
 documentation des différentes fonction en tapant leur nom suivi de *?*.
 e.g., `In[1]: fit?`
 
-**Outpout Typique**
+**Output Typique**
 ```
 In [1]: run -i Fit-Young.py
 
