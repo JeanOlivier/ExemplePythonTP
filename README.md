@@ -36,6 +36,8 @@ Fit correlation matrix
 Reduced chi2 is 0.0109055316205
 ```
 
+![Graphique obtenu](Example/Fit-Young_Python.png)
+
 
 Jean Olivier Simoneau, février 2017
 
